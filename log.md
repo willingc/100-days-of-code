@@ -28,15 +28,52 @@ The Julia ecosystem has grown significantly since [JuliaCon 2017](https://juliac
 It's great that there are more tools for documentation and
 teaching available to support sharing the language.
 
+Cool tip to get into `Pkg` mode: type `]`
+To get back to REPL, use backspace or Ctl-c.
+
 **Link to work:**
 
-https://github.com/pysplash/jupy-smores
+Repo: https://github.com/pysplash/jupy-smores
+- uses Franklin: SSG for Julia
+
+[Rendered site](https://pysplash.github.io/jupy-smores)
+
+
+## Day 2: 2020-11-30 Monday
+
+**Today's Progress**:
+
+Explore the Julia website and ecosystem
+- [Julia Observer](https://juliaobserver.com/about): package browser
+- [JuliaHub](https://juliahub.com/ui/Home): another way to explore packages
+
+Joined:
+- Discourse
+- Julia D&I Slack https://discourse.julialang.org/t/diversity-and-inclusion-in-the-julia-community/50271
+
+Build Julia from source
+- Install gfortran using brew
+- Run `make`
+- Run `./julia` to enter REPL
+
+Fork IJulia
+
+**Thoughts:**
+
+Packaging has really improved since 2017 and it's nice to have tools to
+sort and review packages and info about them.
+
+**Link to work:**
+
+Added 100 days of code log to Franklin SSG https://pysplash.github.io/jupy-smores/
+
+![](static/images/julia-source-repl.png)
 
 ---
 
-## Day xx: 2020-11-29 Sunday
+## Day x: 2020-mm-dd Day_of_week
 
-**Today's Progress**:
+**Today's Progress:**
 
 **Thoughts:**
 
